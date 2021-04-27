@@ -23,6 +23,8 @@ A lot of love to [ChanceArthur](https://github.com/ChanceArthur) and his [articl
 
 ## Components
 
+Worth noting that I initially had two Corsair NVMe disks but one died. This is a know problem so if I where you, i'd stay away from them and get two Samsung Samsung 980 PRO instead if you are looking for dual booting.
+
 | Component | Model name | Count | Comment |
 | -------- | ------------- | --- |  --- |
 | Case | [Louqe Ghost s1 ](https://www.louqe.com/ghost-s1/) | 1 | |
@@ -31,7 +33,8 @@ A lot of love to [ChanceArthur](https://github.com/ChanceArthur) and his [articl
 | CPU | [AMD Ryzen 9 5950X](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x) | 1 | |
 | PSU | [CORSAIR SF Series™ SF750](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/SF-Series/p/CP-9020186-NA) | 1 | 
 | RAM | [G.Skill Trident Z Neo DDR4-3600MHz CL16-19-19-39 1.35V 32GB (2x16GB)](https://www.gskill.com/product/165/326/1562840211/F4-3600C16D-32GTZNCTrident-Z-NeoDDR4-3600MHz-CL16-19-19-39-1.35V32GB-(2x16GB)) | 1 | |
-| NVRAM | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 2 | *two because of dual-boot* |
+| NVRAM | [Samsung 980 PRO PCIe 4.0 NVMe SSD 1TB](https://www.samsung.com/us/business/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-1tb-mz-v8p1t0b-am) | 1 | Used for Windows. Positioned under motherboard |
+| NVRAM | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 1 | Initially had two. One died |
 | Graphics card | [Radeon 6800 XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800-xt) | 1 | |
 | GPU water-block | [EK-Quantum Vector RX 6800/6900 D-RGB - Nickel + Plexi](https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-d-rgb-nickel-plexi) | 1 |  |
 | GPU water-block backplate | [EK-Quantum Vector RX 6800/6900 Backplate - Nickel](https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-backplate-nickel) | 1 | * bonus feature: this enables adding thermal pads between gpu and second NVRAM * |
@@ -47,7 +50,6 @@ https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-d-rgb-nickel-plexi
 | 90° angled adapter (for pump)| [EK-AF Classic Angled 90° - Black](https://www.ekwb.com/shop/ek-af-classic-angled-90-black) | 1 |
 | 45°+45° angled adapter (for cpu)| [EK-AF Angled 2×45° G1/4 Black](https://www.ekwb.com/shop/ek-af-angled-2-45-g1-4-black) | 2 |
 | Tube | [EK-Tube ZMT Matte Black 15,9/9,5mm](https://www.ekwb.com/shop/ek-tube-zmt-matte-black-15-9-9-5mm-3m-retail) | 1 |
-
 
 
 ## What is working
